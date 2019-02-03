@@ -30,7 +30,7 @@ JavaScript:
 and many more.
 
 ## Usage
-To start using this page, just download whole content and run index.html file or click here: https://kotem84.github.io/Sit_On_Chair-JavaScript/
+To start using this page, just download whole content and run index.html file or click here: https://kamila-kubik.github.io/Sit_On_Chair-JavaScript/
 Enjoy! 
 
 ## Screenshot of my page
